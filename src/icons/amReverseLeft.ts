@@ -1,0 +1,7 @@
+// Auto-generated. Do not edit directly.
+import type { AmagIconDefinition } from '@amag/icon-library';
+
+export const amReverseLeft: AmagIconDefinition = {
+  iconName: 'reverse-left',
+  data: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7h10a6 6 0 0 1 0 12H4M4 7l4-4M4 7l4 4"/></svg>',
+};

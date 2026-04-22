@@ -1,0 +1,7 @@
+// Auto-generated. Do not edit directly.
+import type { AmagIconDefinition } from '@amag/icon-library';
+
+export const amPc: AmagIconDefinition = {
+  iconName: 'pc',
+  data: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M1.844 5.281h18.688c1.031 0 1.875.813 1.875 1.844v11.938c0 1.031-.844 1.906-1.875 1.906h-7.281v3.094h5.313c.781 0 .844 2.563.938 2.656H2.908s0-2.656.938-2.656h5.313v-3.094H1.846c-1.031 0-1.844-.875-1.844-1.906V7.125c0-1.031.813-1.844 1.844-1.844zm0 13.782h18.688V7.125H1.844z"/></svg>',
+};

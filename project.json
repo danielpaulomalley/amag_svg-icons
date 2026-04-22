@@ -1,0 +1,26 @@
+{
+  "name": "svg-icons",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/svg-icons/src",
+  "prefix": "lib",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "test": {
+      "executor": "@nx/vitest:test",
+      "outputs": ["{options.reportsDirectory}"],
+      "options": {
+        "reportsDirectory": "coverage/libs/svg-icons"
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint"
+    },
+    "generate-icons": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "node libs/svg-icons/generate-icons.js"
+      }
+    }
+  }
+}

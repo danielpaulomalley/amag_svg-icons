@@ -1,0 +1,7 @@
+// Auto-generated. Do not edit directly.
+import type { AmagIconDefinition } from '@amag/icon-library';
+
+export const amReverseRight: AmagIconDefinition = {
+  iconName: 'reverse-right',
+  data: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7H10a6 6 0 1 0 0 12h10m0-12-4-4m4 4-4 4"/></svg>',
+};

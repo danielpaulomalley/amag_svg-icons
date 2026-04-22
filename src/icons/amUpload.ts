@@ -1,0 +1,7 @@
+// Auto-generated. Do not edit directly.
+import type { AmagIconDefinition } from '@amag/icon-library';
+
+export const amUpload: AmagIconDefinition = {
+  iconName: 'upload',
+  data: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 20 20"><path xmlns="http://www.w3.org/2000/svg" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 13v1.2c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C16.72 19 15.88 19 14.2 19H5.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C1 16.72 1 15.88 1 14.2V13m14-7-5-5m0 0L5 6m5-5v12"/></svg>',
+};
