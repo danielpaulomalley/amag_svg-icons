@@ -1,0 +1,7 @@
+// Auto-generated. Do not edit directly.
+import type { AmagIconDefinition } from '@amag/icon-library';
+
+export const amChevronDown: AmagIconDefinition = {
+  iconName: 'chevron-down',
+  data: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m6 9 6 6 6-6"/></svg>',
+};
