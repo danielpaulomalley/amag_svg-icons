@@ -1,0 +1,16 @@
+{
+  "name": "@amag/svg-icons",
+  "version": "0.0.2",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "types": "./src/index.d.ts"
+    }
+  },
+  "peerDependencies": {
+    "@amag/icon-library": ">=0.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://pkgs.dev.azure.com/amagengineering/_packaging/idm/npm/registry/"
+  }
+}
